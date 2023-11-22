@@ -1,6 +1,6 @@
 # Dogs
 
-Uma rede social para cachorros. A aplicação está bem completa e com várias funcionalidades como Feed, criar usuário, login, recuperar senha, postar foto, gráficos de estatísticas, logout e etc.
+Uma rede social para cachorros. A aplicação está bem completa e com várias funcionalidades como feed, criar usuário, login, recuperar senha, postar foto, gráficos de estatísticas, logout e etc.
 
 ### Tecnologias Utilizadas
 
